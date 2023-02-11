@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    background: url("https://3.bp.blogspot.com/-N1w81YB2oj8/XNpBje92T8I/AAAAAAAACus/v_JYoXcBq9cNQ5JZtZozXMBfahntl6hYgCKgBGAs/w2880-h1800-c/avengers-endgame-iron-man-infinity-stones-uhdpaper.com-4K-161.jpg");
+    background-size: 100%;
+    overflow: hidden;
+}
+
+h2{
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: larger;
+    text-align: center;
+    color: blue;
+}
+
+.clock{
+    display: flex;
+}
+
+.clock div{
+    margin: 5px;
+    position: relative;
+}
+
+.clock span{
+    width: 100px;
+    height: 80px;
+    background-color: yellow;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .7);
+}
+
+.clock .text{
+    height: 30px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: yellow;
+    opacity: 0.8;
+}
+
+.clock #ampm{
+    bottom: 0;
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+    background: yellowgreen;
+}
