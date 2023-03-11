@@ -12,3 +12,4 @@ Basic front end projects which would help to learn about html,css and javascript
 10.Random photos-"https://randomphoto-manny.netlify.app/"
 11.Real time character counter-"https://charcounter-manny.netlify.app/"
 12.Rotating image gallery-"https://rotatinimggallery-manny.netlify.app/"
+13.Random color generator-"https://randomcolorgenerator-manny.netlify.app/"
