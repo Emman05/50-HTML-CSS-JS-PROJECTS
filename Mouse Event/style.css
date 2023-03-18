@@ -2,7 +2,7 @@ body{
     margin: 0;
     display: flex;
     justify-content: center;
-    height: 100;
+    height: 100vh;
     align-items: center;
     background-color: darkblue;
     color: white;
@@ -21,6 +21,7 @@ body{
     min-height: 100px;
     position: relative;
     justify-content: center;
+    align-items: center;
     display: flex;
     font-size: 30px;
 }
